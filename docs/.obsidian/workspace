@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "518fda3c97c9f8f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "856cb711be7f7c61",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "hardware-notes/MCU-Circuit.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74969c52ade3ca05",
+    "type": "split",
+    "children": [
+      {
+        "id": "5891b7e9e620a30b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "556eb3dee10247f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fb9445b18b9912a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a4a5258be67b70d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5611e38d999bc635",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1f20e80f4791ecb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "151ec0fe3d8f34e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "hardware-notes/MCU-Circuit.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dfb39ded44193937",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "hardware-notes/MCU-Circuit.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1c0d69f0b1f1f580",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "55bfa191ff621d84",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "hardware-notes/MCU-Circuit.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "856cb711be7f7c61",
+  "lastOpenFiles": []
+}
