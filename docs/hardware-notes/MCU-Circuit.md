@@ -40,3 +40,9 @@ VSS is ground.
 `2.0 < VDD < 3.6`
 
 `VDDA == VDD`
+
+
+
+PA0-12 + PA 15
+
+PA 13 14
