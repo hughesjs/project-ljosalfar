@@ -19,15 +19,15 @@ The [STM32F030](https://jlcpcb.com/partdetail/Stmicroelectronics-STM32F030C8T6/C
 |----|----|----|
 | 100n | CL05B104KB54PNC | https://jlcpcb.com/partdetail/291005-CL05B104KB54PNC/C307331 |
 | 10pF | CL05C100JB5NNNC | https://jlcpcb.com/partdetail/33914-CL05C100JB5NNNC/C32949 |
+| 1uF | CL21B105KBFNNNE | https://jlcpcb.com/partdetail/29074-CL21B105KBFNNNE/C28323 |
 
 ## Oscillators
 
 ### Main Clock
 
-8MHz [X49SM8MSD2SC](https://jlcpcb.com/partdetail/YangxingTech-X49SM8MSD2SC/C12674) Crystal Oscillator should do. Can be ramped up to a 32MHz crystal if we need to.
+32 MHz Crystal Oscillator [X322532MOB4SI](https://jlcpcb.com/partdetail/YangxingTech-X322532MOB4SI/C9009)
 
-![[8MHz-Crystal-Oscillator-Datasheet.pdf]]
-
+![[32MHz-Crystal-Oscillator-Datasheet.pdf]]
 
 # Pin Assignments
 
