@@ -23,6 +23,7 @@ The [STM32F072CBT6](https://jlcpcb.com/partdetail/Stmicroelectronics-STM32F072CB
 | 12pF | 0402CG120J500NT | https://jlcpcb.com/partdetail/1899-0402CG120J500NT/C1547 | 
 | 10nF | CL05B103KB5NNNC | https://jlcpcb.com/partdetail/15869-CL05B103KB5NNNC/C15195 |
 | 4.7uF  | CL21A475KAQNNNE | https://jlcpcb.com/partdetail/2131-CL21A475KAQNNNE/C1779 | 
+| 4.7nF | 0402B472K500NT| https://jlcpcb.com/partdetail/1890-0402B472K500NT/C1538 |
 
 Some sage advice:
 
